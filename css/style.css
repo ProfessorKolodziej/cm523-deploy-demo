@@ -36,8 +36,13 @@ h1 {
 
 .box {
 	background-color: gray;
-	width: 100px;
+<<<<<<< HEAD
+	width: 150px;
+=======
+	width: 200px;
+>>>>>>> a4c0e667b5faf3f68e5364bf444002877e558121
 	height: 100px;
 	float: left;
 	margin-right: 20px;
+	color: pink;
 }
